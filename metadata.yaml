@@ -1,0 +1,37 @@
+_repo: Yll-tys-y.-m.-kertomuksia-Alaskasta_42565
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Oksanen, Vilho
+    gutenberg_agent_id: '41744'
+    url: http://www.gutenberg.org/2009/agents/41744
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2013-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42565'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Fiction'
+- !lcsh 'Yukon River Valley (Yukon and Alaska) -- Fiction'
+- !lcsh 'Adventure stories, American -- Translations into Finnish'
+- !lcc 'PS'
+tableOfContents: Yllätys -- Aurinkokoirain jäljet -- Valkoinen Hiljaisuus -- Keeshin
+  tarina.
+title: Yllätys y. m. kertomuksia Alaskasta
+url: http://www.gutenberg.org/ebooks/42565
