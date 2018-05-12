@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42565#Yll-tys-y.-m.-kertomuksia-Alaskasta
 gutenberg_issued: '2013-04-20'
 gutenberg_type: Text
 identifiers:
